@@ -1,2 +1,2 @@
 # Kickstater
-Predict the likelihood of success of Kickstarter project
+Predict the likelihood of success of Kickstarter projects
